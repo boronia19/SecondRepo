@@ -1,0 +1,2 @@
+#!/usr/bin/env bash 
+/C/Users/adam.brumley/AppData/Local/Anaconda/Scripts/conda.exe "$@"
